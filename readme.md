@@ -1,0 +1,3 @@
+## @ftbl/bus
+
+Message bus.
