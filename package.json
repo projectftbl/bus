@@ -18,13 +18,12 @@
   },
   "dependencies": {
     "@ftbl/configuration": "^1.0.1",
-    "@ftbl/gulp": "^1.5.0",
     "@ftbl/redis": "^1.0.0",
-    "bluebird": "^2.9.34",
+    "bluebird": "^3.0.0",
     "ioredis": "^1.9.0"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.7",
+    "@ftbl/gulp": "^1.5.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
