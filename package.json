@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/bus",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Message bus",
   "main": "node index",
   "scripts": {
