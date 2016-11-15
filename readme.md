@@ -1,3 +1,3 @@
-## @ftbl/bus
+## @recipher/bus
 
 Message bus.
